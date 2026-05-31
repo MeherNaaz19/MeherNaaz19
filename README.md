@@ -5,13 +5,6 @@
 🌱 Currently exploring the intersection of backend systems and machine learning  
 
 ---
-
-## 🚀 What I'm Working On
-
-- 🎬 **BookMyShow Clone** — Full-stack movie booking platform with seat selection & REST APIs
-- 🏦 **Online Banking System** — Core banking app with authentication & fund transfer
-- 🔍 **Credit Fraud Detection** — ML model comparison & performance analysis
-
 ## 🛠️ Tech Stack
 
 **Languages:**  Java · Python · JavaScript · HTML · CSS  
