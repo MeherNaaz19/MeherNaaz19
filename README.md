@@ -36,5 +36,4 @@
 - 🤖 Google AI-ML Virtual Internship (AICTE EduSkills)
 
 ---
-
-📫 Connect with me on [LinkedIn](https://linkedin.com/in/your-link-here](https://www.linkedin.com/in/meher-naaz-847a26302/)
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/meher-naaz-847a26302/)
