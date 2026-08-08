@@ -8,11 +8,11 @@
 
 ## 🛠️ Tech Stack
 
-**Languages:**  Java · Python · JavaScript · HTML · CSS
-**Backend:**    Spring Boot · REST APIs · JWT · JPA
-**ML & Data:**  TensorFlow · Scikit-learn · XGBoost · Pandas · NumPy · NLTK
-**AI/LLM:**     RAG · FAISS · sentence-transformers · Groq API · Llama 3.3 · Whisper
-**Databases:**  SQL · PL/SQL
+**Languages:**  Java · Python · JavaScript · HTML · CSS  
+**Backend:**    Spring Boot · REST APIs · JWT · JPA  
+**ML & Data:**  TensorFlow · Scikit-learn · XGBoost · Pandas · NumPy · NLTK  
+**AI/LLM:**     RAG · FAISS · sentence-transformers · Groq API · Llama 3.3  
+**Databases:**  SQL · PL/SQL  
 **Tools:**      Git · GitHub · VS Code · Figma · Google Colab
 
 ## 📌 Featured Projects
