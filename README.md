@@ -2,7 +2,6 @@
 
 🎓 B.Tech Computer Science @ SR University, Telangana (CGPA: 9.69/10)  
 💻 Full-Stack Developer & ML Engineer building real-world AI/LLM applications  
-🔬 ML Research Collaborator with Oxford University Professor  
 🌱 Currently exploring RAG, LLM systems, and bioinformatics ML  
 
 ---
