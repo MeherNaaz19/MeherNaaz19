@@ -21,8 +21,8 @@
 |---|---|---|
 | 🤖 RAG Document Chatbot | FAISS, LangChain, Groq, Llama 3.3 | PDF Q&A + summarization with hallucination prevention — deployed on HF Spaces |
 | 🛒 E-Commerce Web Application | Spring Boot, Java, REST API, JWT | Full-stack e-commerce platform with product listing, cart management, and order processing |
-| 📰 Fake News Detection | BERT, GloVe, Bi-LSTM, SVM | 9-model NLP comparison achieving 99.49% accuracy with SVM |
 | 🔍 Credit Fraud Detection | XGBoost, SMOTE, Scikit-learn | 3-model comparison with ROC-AUC of 0.9983 |
+| 📰 Fake News Detection | BERT, GloVe, Bi-LSTM, SVM | 9-model NLP comparison achieving 99.49% accuracy with SVM |
 
 ## 📈 Achievements
 
