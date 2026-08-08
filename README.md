@@ -33,5 +33,5 @@
 
 ---
 
-🌐 **Portfolio:** [mehernaaz19.github.io/Portfolio](https://mehernaaz19.github.io/Portfolio/)
+🌐 **Portfolio:** [Portfolio](https://mehernaaz19.github.io/Portfolio/)  
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/meher-naaz-847a26302/)
