@@ -1,8 +1,9 @@
 # Hi, I'm Meher Naaz 👋
 
-🎓 B.Tech Computer Science @ SR University, Telangana (CGPA: 9.6/10)
-💻 Full-Stack Developer & building real-world AI/LLM applications
-🌱 Currently exploring RAG, LLM systems, and bioinformatics ML
+🎓 B.Tech Computer Science @ SR University, Telangana (CGPA: 9.69/10)  
+💻 Full-Stack Developer & ML Engineer building real-world AI/LLM applications  
+🔬 ML Research Collaborator with Oxford University Professor  
+🌱 Currently exploring RAG, LLM systems, and bioinformatics ML  
 
 ---
 
@@ -33,4 +34,5 @@
 
 ---
 
+🌐 **Portfolio:** [mehernaaz19.github.io/Portfolio](https://mehernaaz19.github.io/Portfolio/)
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/meher-naaz-847a26302/)
