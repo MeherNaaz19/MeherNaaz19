@@ -1,32 +1,36 @@
 # Hi, I'm Meher Naaz 👋
 
-🎓 B.Tech Computer Science @ SR University, Telangana (CGPA: 9.6/10)  
-💻 Full-Stack Developer & ML Enthusiast passionate about building real-world impactful software  
-🌱 Currently exploring the intersection of backend systems and machine learning  
+🎓 B.Tech Computer Science @ SR University, Telangana (CGPA: 9.6/10)
+💻 Full-Stack Developer & building real-world AI/LLM applications
+🌱 Currently exploring RAG, LLM systems, and bioinformatics ML
 
 ---
+
 ## 🛠️ Tech Stack
 
-**Languages:**  Java · Python · JavaScript · HTML · CSS  
-**Backend:**    Spring Boot · REST APIs · JWT · JPA  
-**ML & Data:**  TensorFlow · Scikit-learn · Pandas · NumPy · NLTK  
-**Databases:**  SQL · PL/SQL  
-**Tools:**      Git · GitHub · VS Code · Figma  
+**Languages:**  Java · Python · JavaScript · HTML · CSS
+**Backend:**    Spring Boot · REST APIs · JWT · JPA
+**ML & Data:**  TensorFlow · Scikit-learn · XGBoost · Pandas · NumPy · NLTK
+**AI/LLM:**     RAG · FAISS · sentence-transformers · Groq API · Llama 3.3 · Whisper
+**Databases:**  SQL · PL/SQL
+**Tools:**      Git · GitHub · VS Code · Figma · Google Colab
 
 ## 📌 Featured Projects
 
 | Project | Tech | Description |
 |---|---|---|
-| 🎬 BookMyShow Clone | Spring Boot, JWT, JS | Full-stack movie booking with concurrency handling |
-| 🏦 Online Banking System | Spring Boot, REST API | Core banking with auth & fund transfer |
-| 🔍 Credit Fraud Detection | Python, Scikit-learn | ML model comparison & performance analysis |
+| 🤖 RAG Document Chatbot | FAISS, LangChain, Groq, Llama 3.3 | PDF Q&A + summarization with hallucination prevention — deployed on HF Spaces |
+| 🛒 E-Commerce Web Application | Spring Boot, Java, REST API, JWT | Full-stack e-commerce platform with product listing, cart management, and order processing |
+| 📰 Fake News Detection | BERT, GloVe, Bi-LSTM, SVM | 9-model NLP comparison achieving 99.49% accuracy with SVM |
+| 🔍 Credit Fraud Detection | XGBoost, SMOTE, Scikit-learn | 3-model comparison with ROC-AUC of 0.9983 |
 
 ## 📈 Achievements
 
+- 📜 Patent Published — AI-Powered System for Automated Loan Sanctioning (No. 202541050431 A, June 2025)
 - 💡 200+ LeetCode problems solved
 - 🏅 HackerRank Problem Solving Certified
 - 🏆 Hackathon team lead & Scrum Master
-- 🤖 Google AI-ML Virtual Internship (AICTE EduSkills)
 
 ---
+
 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/meher-naaz-847a26302/)
